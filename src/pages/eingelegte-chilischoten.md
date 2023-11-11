@@ -28,7 +28,7 @@ Zucker und Salz können nach Augenmaß zugegeben werden und müssen nicht aufs G
 1. Falls Gewürze dazu kommen, diese mit in den Topf geben.
 1. Die Essigmischung erhitzen bis sie anfängt zu köcheln und dann vorsichtig zusammen mit den Gewürzen in das Glas mit den Schoten gießen.
 1. Jetzt etwas warten bis sich die Schoten vollständig mit der Essigmischung füllen. Dabei kann Luft entweichen. Warten bis keine Luftblasen mehr aufsteigen. Sollte der Flüssigkeitstand sinken kann etwas Essigmischung nachgegossen werden.
-1. Wenn die Schoten dicht genug gepackt wurden, dann sollten sie nicht anfangen an der Oberfläche zu schwimmen. Sollten sie das doch tun, kann man sie mit einem Stück Küchenpapier abdecken. Das saugt sich dann voll und sorft für einen guten Luftabschluss, selbst wenn die Schoten immer wieder auftauchen.
+1. Wenn man Glück hat waren die Schoten dicht genug gepackt undfangen nicht an zu schwimmen. Sollten sie das doch tun, kann man sie mit einem Stück Küchenpapier abdecken. Das saugt sich dann voll und sorft für einen guten Luftabschluss, selbst wenn die Schoten immer wieder auftauchen.
 1. Das Glas verschließen und auf Raumtemperatur abkühlen lassen. Nicht zu fest verschließen, durch das Abkühlen entsteht ein Unterdruck der den Verschluss noch stärker zusammenziehen wird.
 1. Ist das Glas auf Raumtemperatur kann es in den Kühlschrank gestellt werden.
 
