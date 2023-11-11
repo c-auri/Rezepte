@@ -1,5 +1,5 @@
 # Eingelegte Chilischoten
-Dieses Rezept ist sehr einfach gehalten und kann nach Bedarf angepasst werden. Die Schoten können einfach so gegessen werden, oder kleingeschnitten als Beilage für herzhaftes Essen dienen.
+Dieses Rezept ist sehr einfach gehalten und kann nach Bedarf angepasst werden. Die fertigen Schoten können einfach so gegessen werden, oder kleingeschnitten als Beilage für herzhaftes Essen dienen.
 
 Je nach Vorliebe kann die verwendete Essigmischung angepasst werden: Sie kann komplett aus Essig bestehen, dann werden die Schoten sehr sauer, oder für ein milderes Ergebnis mit Wasser verdünnt werden. Sie sollte aber immer mindestens zur Hälfte aus Essig bestehen.
 
@@ -28,9 +28,9 @@ Das fertige Produkt sollte im Kühlschrank gelagert werden und hält sich einige
 1. In einem Topf Essig und Wasser vermischen, bis genug Flüssigkeit vorhanden ist um damit die Schoten im Glas zu bedecken (lieber zu viel als zu wenig). Je nach gewünschter Säure mehr oder weniger Essig benutzen, mindestens aber halbe-halbe.
 1. Salz und Zucker zur Essigmischung geben. Pro halben Liter Essigmischung etwa 1EL Zucker und 2TL Salz.
 1. Falls Gewürze dazu kommen, diese mit in den Topf geben.
-1. Die Essigmischung erhitzen bis sie anfängt zu köcheln und dann vorsichtig zusammen mit den Gewürzen in das Glas mit den Schoten gießen.
-1. Jetzt etwas warten bis sich die Schoten vollständig mit der Essigmischung füllen. Dabei kann Luft entweichen. Warten bis keine Luftblasen mehr aufsteigen. Sollte der Flüssigkeitstand sinken kann etwas Essigmischung nachgegossen werden.
-1. Wenn man Glück hat waren die Schoten dicht genug gepackt undfangen nicht an zu schwimmen. Sollten sie das doch tun, kann man sie mit einem Stück Küchenpapier abdecken. Das saugt sich dann voll und sorft für einen guten Luftabschluss, selbst wenn die Schoten immer wieder auftauchen.
+1. Die Essigmischung erhitzen bis sie anfängt zu köcheln und dann vorsichtig zusammen mit den Gewürzen in das Glas mit den Schoten gießen, bis diese bedeckt sind.
+1. Jetzt etwas warten bis sich die Schoten vollständig mit der Essigmischung füllen. Dabei kann Luft entweichen. Warten bis keine Luftblasen mehr aufsteigen. Sollte dabei der Flüssigkeitstand sinken kann etwas Essigmischung nachgegossen werden.
+1. Wenn man Glück hat waren die Schoten dicht genug gepackt und fangen nicht an zu schwimmen. Sollten sie das doch tun, kann man sie mit einem Stück Küchenpapier abdecken. Das saugt sich voll und sorgt für einen guten Luftabschluss, selbst wenn die Schoten darunter auftauchen sollten.
 1. Das Glas verschließen und auf Raumtemperatur abkühlen lassen. Nicht zu fest verschließen, durch das Abkühlen entsteht ein Unterdruck der den Verschluss noch stärker zusammenziehen wird.
 1. Ist das Glas auf Raumtemperatur kann es in den Kühlschrank gestellt werden.
 
