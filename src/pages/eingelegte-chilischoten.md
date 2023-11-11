@@ -5,6 +5,8 @@ Je nach Vorliebe kann die verwendete Essigmischung angepasst werden: Sie kann ko
 
 Zucker und Salz können nach Augenmaß zugegeben werden und müssen nicht aufs Gramm genau abgewogen werden. Die Gewürze sind komplett optional. Wenn welche verwendet werden, dann lieber nicht zu viel. Ein Lorbeerblatt und zwei Knoblauchzehen reichen für ein großes Glas.
 
+Das fertige Produkt sollte im Kühlschrank gelagert werden und hält sich einige Wochen bis Monate. Je mehr Essig verwendet wurde, um so länger.
+
 ## Zutaten
 - frische Chilischoten
 - ein Einmachglas, die Schoten sollten hinein passen und dabei das Glas gut füllen
@@ -32,6 +34,4 @@ Zucker und Salz können nach Augenmaß zugegeben werden und müssen nicht aufs G
 1. Das Glas verschließen und auf Raumtemperatur abkühlen lassen. Nicht zu fest verschließen, durch das Abkühlen entsteht ein Unterdruck der den Verschluss noch stärker zusammenziehen wird.
 1. Ist das Glas auf Raumtemperatur kann es in den Kühlschrank gestellt werden.
 
-Die Schoten können gegessen werden sobald sie abgekühlt sind. Im Kühlschrank ziehen sie dann nur noch nach und verstärken ihren Geschmack. Falls Gewürze verwendet wurden werden diese mit der Zeit immer intensiver. Das Küchenpapier kann nach dem ersten Öffnen des Glases entfernt werden.
-
-Das fertige Produkt sollte im Kühlschrank gelagert werden und hält sich einige Wochen bis Monate.
+Die Schoten können gegessen werden sobald sie abgekühlt sind. Das Küchenpapier kann nach dem ersten Öffnen des Glases entfernt werden. Im Kühlschrank ziehen sie dann nur noch nach und verstärken ihren Geschmack. Falls Gewürze verwendet wurden werden diese mit der Zeit immer intensiver.
