@@ -1,5 +1,6 @@
 ---
-
+import { getCollection, getEntry } from 'astro:content'
+const recipes = await getCollection('recipes')
 ---
 
 <html lang="en">
@@ -12,7 +13,12 @@
     <body>
         <h1>Rezepte</h1>
         <ul>
-            <li><a href="">test</a></li>
+            {
+                recipes.map(recipe =>
+                <li>
+                    <a href={"rezepte/" + recipe.slug}>{recipe.data.title}</a>
+                </li>)
+            }
         </ul>
     </body>
 </html>
