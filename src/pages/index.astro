@@ -1,24 +1,16 @@
 ---
-import { getCollection, getEntry } from 'astro:content'
+import { getCollection } from 'astro:content'
+import Page from '../layouts/Page.astro'
 const recipes = await getCollection('recipes')
 ---
-
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>Rezepte</title>
-    </head>
-    <body>
-        <h1>Rezepte</h1>
-        <ul>
-            {
-                recipes.map(recipe =>
-                <li>
-                    <a href={"rezepte/" + recipe.slug}>{recipe.data.title}</a>
-                </li>)
-            }
-        </ul>
-    </body>
-</html>
+<Page>
+    <h1>Rezepte</h1>
+    <ul>
+        {
+            recipes.map(recipe =>
+            <li>
+                <a href={"rezepte/" + recipe.slug}>{recipe.data.title}</a>
+            </li>)
+        }
+    </ul>
+</Page>
