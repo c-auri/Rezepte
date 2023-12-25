@@ -1,7 +1,7 @@
 ---
 title: "Knetfreies Weißbrot"
 ---
-Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, es braucht dafür allerdings viel Ruhezeit. Es ist empfehlenswert die Zutaten  zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen. Der Teig sollte eine recht klebrige Konsistenz haben, weniger fest als gekneteter Brotteig. Man sollte nicht in Versuchung kommen mehr Mehl zuzugeben um besser mit ihm umgehen zu können.
+Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, dafür braucht es aber viel Ruhezeit. Es ist empfehlenswert die Zutaten  zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen. Der Teig sollte eine recht klebrige Konsistenz haben, weniger fest als gekneteter Brotteig. Man sollte nicht in Versuchung kommen mehr Mehl zuzugeben um besser mit ihm umgehen zu können.
 
 Bei der Hauptruhezeit des Teigs hat man sehr viel Spielraum. Er kann mehrere Stunden bei Raumtemperatur ziehen, oder auch im Kühlschrank über Nacht oder sogar mehrere Tage. Um so länger und langsamer er gärt, um so besser das Ergebnis.
 
