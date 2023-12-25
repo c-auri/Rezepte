@@ -1,6 +1,7 @@
 ---
 title: "Weißbrot ohne Kneten"
 ---
+# Weißbrot ohne Kneten
 Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, es braucht dafür allerdings viel Vorbereitungszeit. Es ist empfehlenswert die Zutaten möglichst genau zu wiegen, allerdings müssen sie nicht aufs Gramm stimmen. Der Teig sollte eine recht flüssige Konsistenz haben, weniger fest als gekneteter Brotteig. Man sollte nicht in Versuchung kommen mehr Mehl zuzugeben um besser mit ihm umgehen zu können.
 
 Bei der Hauptruhezeit des Teigs hat man sehr viel Spielraum. Er kann mehrere Stunden bei Raumtemperatur ziehen, oder im Kühlschrank auch über Nacht oder sogar mehrere Tage. Um so länger und langsamer er gärt, um so besser das Ergebnis.
