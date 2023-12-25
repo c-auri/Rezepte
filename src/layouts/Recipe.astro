@@ -3,5 +3,12 @@ import Page from "./Page.astro";
 ---
 <Page>
     <a href="/">zurück</a>
-    <slot />
+    <main>
+        <slot />
+    </main>
 </Page>
+<style>
+    main {
+        max-width: 120ch;
+    }
+</style>
