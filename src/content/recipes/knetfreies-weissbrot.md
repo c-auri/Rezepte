@@ -1,5 +1,5 @@
 ---
-title: "Weißbrot ohne Kneten"
+title: "Knetfreies Weißbrot"
 ---
 Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, es braucht dafür allerdings viel Ruhezeit. Es ist empfehlenswert die Zutaten  zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen. Der Teig sollte eine recht klebrige Konsistenz haben, weniger fest als gekneteter Brotteig. Man sollte nicht in Versuchung kommen mehr Mehl zuzugeben um besser mit ihm umgehen zu können.
 
