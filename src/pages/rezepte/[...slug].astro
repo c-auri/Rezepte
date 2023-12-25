@@ -1,5 +1,5 @@
 ---
-import Page from '../../layouts/Page.astro';
+import Recipe from '../../layouts/Recipe.astro';
 import { getCollection } from 'astro:content';
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -11,6 +11,6 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
-<Page>
+<Recipe>
   <Content />
-</Page>
+</Recipe>
