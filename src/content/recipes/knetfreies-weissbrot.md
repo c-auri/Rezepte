@@ -1,9 +1,7 @@
 ---
 title: "Knetfreies Weißbrot"
 ---
-Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, dafür braucht es aber viel Ruhezeit. Es ist empfehlenswert die Zutaten  zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen. Der Teig sollte anfangs eine recht klebrige Konsistenz haben, weniger fest als gekneteter Brotteig.
-
-Bei der Hauptruhezeit des Teigs hat man sehr viel Spielraum. Er kann mehrere Stunden bei Raumtemperatur ziehen, oder auch im Kühlschrank über Nacht oder sogar mehrere Tage. Um so länger und langsamer er gärt, um so besser das Ergebnis.
+Dieses Rezept ist sehr nachgiebig und kommt ohne Kneten aus, dafür braucht es aber viel Ruhezeit. Es ist empfehlenswert die Zutaten  zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen. Bei der Hauptruhezeit des Teigs hat man sehr viel Spielraum. Er kann mehrere Stunden bei Raumtemperatur ziehen, oder auch im Kühlschrank über Nacht oder sogar mehrere Tage. Um so länger und langsamer er gärt, um so besser das Ergebnis.
 
 Die angegebenen 400&hairsp;g Mehl ergeben ein mittelgroßes Brot. Die Prozentangaben der anderen Zutaten beziehen sich auf die Menge des Mehls. Will man also ein kleineres oder größeres Brot backen, muss man nur die Menge des Mehls anders wählen und die restlichen Zutaten entsprechend anpassen.
 
@@ -17,7 +15,7 @@ Die angegebenen 400&hairsp;g Mehl ergeben ein mittelgroßes Brot. Die Prozentang
 **&hairsp;Der Essig hilft dabei das Proteinnetz des Teigs zu stärken und sorgt dadurch für einen elastischeren Teig.*
 
 ## Zubereitung
-1. In einer Schüssel alle Zutaten mit der Hand oder einem Löffel vermengen, bis ein Teig entsteht der keine trockenen Stellen mehr hat.
+1. In einer Schüssel alle Zutaten mit der Hand oder einem Löffel vermengen, bis ein Teig entsteht der keine trockenen Stellen mehr hat. Der Teig sollte eine recht klebrige Konsistenz haben, weniger fest als gekneteter Brotteig.
 1. Die Schüssel bedecken und 15&hairsp;-&hairsp;45 Minuten bei Zimmertemperatur ruhen lassen.
 1. Mindestens drei mal wiederholen:
     1. Mit leicht angefeuchteten Händen den Teig mehrfach ringsum am Rand in die Länge ziehen und über sich selbst zusammenfalten.
