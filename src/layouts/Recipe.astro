@@ -1,8 +1,10 @@
 ---
 import Page from "./Page.astro";
+const { title } = Astro.props
 ---
-<Page>
+<Page title={title}>
     <a href="/">zurück</a>
+    <h1>{title}</h1>
     <main>
         <slot />
     </main>

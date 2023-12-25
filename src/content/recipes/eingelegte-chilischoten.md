@@ -1,7 +1,6 @@
 ---
 title: "Eingelegte Chilischoten"
 ---
-# Eingelegte Chilischoten
 Dieses Rezept ist sehr einfach gehalten und kann nach Bedarf angepasst werden. Die fertigen Schoten können einfach so gegessen werden, oder kleingeschnitten als Beilage für herzhaftes Essen dienen.
 
 Je nach Vorliebe kann die verwendete Essigmischung angepasst werden: Sie kann komplett aus Essig bestehen, dann werden die Schoten sehr sauer, oder für ein milderes Ergebnis mit Wasser verdünnt werden. Sie sollte aber immer mindestens zur Hälfte aus Essig bestehen.
