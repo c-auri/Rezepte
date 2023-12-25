@@ -25,7 +25,7 @@ Die angegebenen 400&hairsp;g Mehl ergeben ein mittelgroßes Brot. Die Prozentang
 1. Den Teig in der Schüssel luftdicht bedecken und für mindestens 2 Stunden bei Raumtemperatur oder über Nacht im Kühlschrank ruhen lassen.
 1. Wenn der Teig gekühlt wurde, dann aus dem Kühlschrank nehmen und etwa eine Stunde auf Raumtemperatur aufwärmen lassen.
 1. Ein letztes Mal den Teig falten und dabei die eingeschlossene Luft entweichen lassen.
-1. Die Arbeitsfläche mit Mehl bestreuen, den Teig darauf geben und ihn mit eingemehlen Händen zu einem Ball formen:
+1. Die Arbeitsfläche mit Mehl bestreuen, den Teig darauf geben und ihn mit eingemehlten Händen zu einem Ball formen:
     1. Die Handflächen sollten flach nach oben zeigen und von zwei Seiten unter den Teigball geführt werden.
     1. Den Teig mit einer seitlichen Drehbewegung wiederholt straffen und gleichzeitig eine Naht auf der Unterseite erzeugen.
     1. Wenn ein gut gestraffter Teigball entstanden ist, den Teig umdrehen und die Naht mit den Fingerspitzen zusammendrücken.
