@@ -12,11 +12,11 @@ Das fertige Produkt sollte im Kühlschrank gelagert werden und hält sich einige
 ## Zutaten
 - frische Chilischoten
 - ein Einmachglas, die Schoten sollten hinein passen und dabei das Glas gut füllen
-- günstiger Essig, z.B. Weißwein- oder Apfelessig
+- günstiger Essig, z.&hairsp;B. Weißwein- oder Apfelessig
 - Tafelsalz
 - Kristallzucker
 - (optional) Wasser
-- (optional) Gewürze, z.B.:
+- (optional) Gewürze, z.&hairsp;B.:
     - Lorbeer
     - Knoblauch
     - ganze Pfefferkörner
@@ -28,7 +28,7 @@ Das fertige Produkt sollte im Kühlschrank gelagert werden und hält sich einige
 1. Alle Schoten mit einem Messer mehrfach einstechen, damit der Essig ins Innere vordringen kann.
 1. Die Schoten dicht gepackt in das Glas geben. Es kann hilfreich sein das Glas dabei auf die Seite zu legen. Die Schoten ruhig ein wenig drücken, sie sollten fest im Glas sitzen.
 1. In einem Topf Essig und Wasser vermischen, bis genug Flüssigkeit vorhanden ist um damit die Schoten im Glas zu bedecken (lieber zu viel als zu wenig). Je nach gewünschter Säure mehr oder weniger Essig benutzen, mindestens aber halbe-halbe.
-1. Salz und Zucker zur Essigmischung geben. Pro halben Liter Essigmischung etwa 1EL Zucker und 2TL Salz.
+1. Salz und Zucker zur Essigmischung geben. Pro halben Liter Essigmischung etwa 1&hairsp;EL Zucker und 2&hairsp;TL Salz.
 1. Falls Gewürze dazu kommen, diese mit in den Topf geben.
 1. Die Essigmischung erhitzen bis sie anfängt zu köcheln und dann vorsichtig zusammen mit den Gewürzen in das Glas mit den Schoten gießen, bis diese bedeckt sind.
 1. Jetzt etwas warten bis sich die Schoten vollständig mit der Essigmischung füllen. Dabei kann Luft entweichen. Warten bis keine Luftblasen mehr aufsteigen. Sollte dabei der Flüssigkeitstand sinken kann etwas Essigmischung nachgegossen werden.

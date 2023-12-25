@@ -12,7 +12,7 @@ Die angegebenen 400&hairsp;g Mehl ergeben ein mittelgroßes Brot. Die Prozentang
 - 2&hairsp;g Trockenhefe (5&hairsp;%)
 - 8&hairsp;g Salz (2&hairsp;%)
 - 300&hairsp;g lauwarmes Wasser (75&hairsp;%)
-- optional: 1&hairsp;-&hairsp;2 Tropfen gewöhnlicher Essig*
+- optional: 1&hairsp;-&hairsp;2 Tropfen gewöhnlicher Essig&hairsp;*
 
 **&hairsp;Der Essig hilft dabei das Proteinnetz des Teigs zu stärken und sorgt dadurch für einen elastischeren Teig.*
 
