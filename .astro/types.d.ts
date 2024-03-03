@@ -182,6 +182,20 @@ declare module 'astro:content' {
   collection: "recipes";
   data: any
 } & { render(): Render[".md"] };
+"knetfreies-weissbrot.md": {
+	id: "knetfreies-weissbrot.md";
+  slug: "knetfreies-weissbrot";
+  body: string;
+  collection: "recipes";
+  data: any
+} & { render(): Render[".md"] };
+"pilzrisotto.md": {
+	id: "pilzrisotto.md";
+  slug: "pilzrisotto";
+  body: string;
+  collection: "recipes";
+  data: any
+} & { render(): Render[".md"] };
 };
 
 	};
