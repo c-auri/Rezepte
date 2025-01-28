@@ -1,6 +1,8 @@
 ---
 title: "Knetfreies Weißbrot"
 ---
+Originales Rezept von [J. Kenji López-Alt](https://www.youtube.com/watch?v=6RUDa0FKplk)
+
 Dieses Rezept kommt komplett ohne Kneten aus, dafür braucht der Teig aber viel Zeit zum Gären. Bei der Hauptruhezeit hat man jedoch sehr viel Spielraum. Der Teig kann mehrere Stunden bei Raumtemperatur ziehen, oder auch im Kühlschrank über Nacht oder sogar mehrere Tage. Um so länger und langsamer er gärt, um so besser das Ergebnis.
 
 Die angegebenen 400&hairsp;g Mehl ergeben ein mittelgroßes Brot. Die Prozentangaben der anderen Zutaten beziehen sich auf die Menge des Mehls. Will man also ein kleineres oder größeres Brot backen, muss man nur die Menge des Mehls ändern und die restlichen Zutaten entsprechend anpassen. Es ist aber immer empfehlenswert die Zutaten zu wiegen und nicht nach Augenmaß vorzugehen, allerdings müssen sie auch nicht aufs Gramm genau stimmen.
