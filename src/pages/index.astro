@@ -1,17 +1,43 @@
 ---
 import { getCollection } from 'astro:content'
 import Page from '../layouts/Page.astro'
-const recipes = await getCollection('recipes')
+const food = await getCollection('food')
+const drink = await getCollection('drink')
+const household = await getCollection('household')
 const title = "Rezepte"
 ---
 <Page title={title}>
+
     <h1>{title}</h1>
+
+    <h2>Essen</h2>
     <ul>
         {
-            recipes.map(recipe =>
+            food.map(recipe =>
             <li>
-                <a href={"rezepte/" + recipe.slug}>{recipe.data.title}</a>
+                <a href={"food/" + recipe.slug}>{recipe.data.title}</a>
             </li>)
         }
     </ul>
+
+    <h2>Trinken</h2>
+    <ul>
+        {
+            drink.map(recipe =>
+            <li>
+                <a href={"drink/" + recipe.slug}>{recipe.data.title}</a>
+            </li>)
+        }
+    </ul>
+
+    <h2>Haushalt</h2>
+    <ul>
+        {
+            household.map(recipe =>
+            <li>
+                <a href={"household/" + recipe.slug}>{recipe.data.title}</a>
+            </li>)
+        }
+    </ul>
+
 </Page>
