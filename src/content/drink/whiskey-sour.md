@@ -1,13 +1,13 @@
 ---
 title: Whiskey Sour
 ---
-## Zutaten
--   2 oz / 60   ml American Whiskey
-- 3/4 oz / 22,5 ml Zitronensaft
-- 3/4 oz / 22,5 ml Simple Syrup
-- 1/2 oz / 15   ml Eiweiß oder Aquafaba
+- 60 ml American Whiskey
+- 20 ml Zitronensaft
+- 20 ml konzentrierter Zuckersirup (1,5:1)
+- 15 ml Eiweiß oder Aquafaba
 
-## Zubereitung
-1. Ohne Eis schütteln, um Schaum zu bilden
-1. Mit Eis schütteln
-1. Mit eingelegten Kirschen oder Zitronenschale auf Eis servieren
+Zuerst ohne Eis kräftig schütteln um Schaum aufzubauen. \
+Eis zugeben und erneut schütteln. \
+Doppelt abseihen. \
+Nach Wunsch auf Eis oder ohne Eis servieren. \
+Schaum kurz setzen lassen, dann mit 2-3 Tropfen Angostura garnieren. 

@@ -1,19 +1,22 @@
 ---
 title: "Pilzrisotto mit Kräuterseitlingen"
 ---
-Originales Rezept von [Adam Ragusea](https://www.youtube.com/watch?v=R_j5k4YCDdI)
+*von [Adam Ragusea](https://www.youtube.com/watch?v=R_j5k4YCDdI)*
 
-## Zutaten pro Portion
+## Zutaten
+
 ### Für die Brühe
 - 500&hairsp;ml Wasser
 - Eine Hand voll getrockneter Pilze
 - Loorbeerblätter
+
 ### Für die Kräuterseitlinge
 - 1 bis 2 große Kräuterseitlinge
 - 1 bis 2 Knoblauchzehen
 - Olivenöl
 - Essig
 - (optional) Knoblauch und frischer Thymian oder andere Kräuter
+
 ### Für das Risotto
 - 400&hairsp;g frische Pilze
 - 100&hairsp;g Risottoreis
