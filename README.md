@@ -1,2 +1,2 @@
 # Recipes
-Hosted on [netlify](http://www.cauri-rezepte.netlify.app/).
+Hosted on [netlify](http://cauri-rezepte.netlify.app/).
